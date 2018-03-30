@@ -14,5 +14,17 @@ Y = Yellow
 R = Red
 O = Off 
 
+# Build & Test run
+
+To build this project, run :
+```sh
+$ mvn install
+```
+
+Use this command to run tests :
+```sh
+$ mvn test
+```
+
 ![alt text](berlinclock.jpg)
 image source: http://www.instructables.com/id/Berlin-Clock/
